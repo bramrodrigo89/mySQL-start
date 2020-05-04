@@ -1,4 +1,6 @@
 .theia
 .gitpod.dockerfile
 .gitpod.yml
-.*.sql
+*.sql
+Chinook_MySql_AutoIncrementPKs.sql
+createuser.sh
